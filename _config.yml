@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Olivia Viessmann"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg"
   bio              : "imaging scientist"
   location         : "Boston, MA, USA"
   email            :
