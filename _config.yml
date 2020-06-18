@@ -110,7 +110,7 @@ author:
        url: "https://github.com/OliviaViessmann"
     - label: "GoogleScholar"
       icon: "ai ai-google-scholar-square ai-3x"
-      url: "https://https://scholar.google.co.uk/citations?user=9RQC6rEAAAAJ&hl=en"
+      url: "//https://scholar.google.co.uk/citations?user=9RQC6rEAAAAJ&hl=en"
 # Site Footer
 footer:
   links:
