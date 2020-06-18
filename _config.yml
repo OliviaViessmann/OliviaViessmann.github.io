@@ -273,4 +273,10 @@ defaults:
       share: true
       related: true
 
-
+      #OV: putting in page
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author: true
